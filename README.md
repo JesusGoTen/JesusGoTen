@@ -9,9 +9,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics+and+Telecommunications+Engineer;Embedded+Systems+and+Industrial+Automation;PLC+Development+with+OpenPLC+and+Modbus;Arduino+%7C+ESP32+%7C+Raspberry+Pi;Always+learning+and+building+projects&font=Fira+Code&center=true&width=650&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics+and+Telecommunications+Student;Embedded+Systems+and+Industrial+Automation;PLC+Development+with+OpenPLC+and+Modbus;Arduino+%7C+ESP32+%7C+ESP8266;Raspberry+Pi+3B%2B+Projects;Windows+%7C+Fedora+Linux;Always+learning+and+building+projects&font=Fira+Code&center=true&width=720&height=45">
   </a>
 </p>
+
 
 <em>
   Hello, I am Jesus Emmanuel Gonzalez Tenorio, an <b>Electronics and Telecommunications Engineer</b><br>
